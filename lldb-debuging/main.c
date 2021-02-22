@@ -1,8 +1,8 @@
-# include <unistd.h>
 # include <stdio.h>
 # include <stddef.h>
 
 size_t	ft_strlen(const char *str){
+	
 	size_t i;
 
 	i = 0;
@@ -13,10 +13,12 @@ size_t	ft_strlen(const char *str){
 
 int main()
 {
-	char *str = "Hola Mundo";
+	char str;
 	int len;
 
+	str = "Hello World";
 	len = ft_strlen(str);
 	printf("%d\n", len);
+	
 	return (0);
 }
