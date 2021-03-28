@@ -16,7 +16,7 @@ int main()
 	char *str;
 	int len;
 
-	str = "Hello World";
+	str = "Hello";
 	len = ft_length(str);
 	printf("%d\n", len);
 	
