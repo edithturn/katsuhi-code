@@ -13,7 +13,8 @@ size_t	ft_length(const char *str){
 
 int main()
 {
-	char *str;
+	// Intentional error
+	char str;
 	int len;
 
 	str = "Hello";
