@@ -1,16 +1,15 @@
 # :dart: **LLDB Debugger in C (Linux)**
-Using LLDB to debug code in C, with a Graphical User Interface on Linux that makes it easier to find bugs in our code.
+Using **LLDB** (Low-level Debugger)  to debug code in **C**, with a Graphical User Interface on Linux that makes it easier to find bugs in our code.
 You can find more about lldb, here: https://lldb.llvm.org/
 
 ## :page_facing_up: **How to install in Linux**
-```bash
+```console
 sudo apt-get install lldb
-
 #Checking the installation
 lldb --version
 ```
 
-## **Debug with lldb and GUI**
+## :feet: **Debug with lldb and GUI**
 ```bash
 gcc -g main.c
 ```
@@ -66,4 +65,4 @@ Process 251028 stopped
 - [here]
 
 ### :clap: **Note**
-- My thanks to **Greg Clayton**  who is the creator of GUI mode for lldb, who was willing to answer all my questions.
+- My thanks to **Greg Clayton**  who is the creator of **GUI mode for lldb**, who was willing to answer all my questions about it!
