@@ -62,7 +62,7 @@ Process 251028 stopped
 
 
 ## **Youtube Video**
-- [here]
+- https://youtu.be/2Yw1chhv7UQ
 
 ### :clap: **Note**
 - My thanks to **Greg Clayton**  who is the creator of **GUI mode for lldb**, who was willing to answer all my questions about it!
